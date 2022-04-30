@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "name": "TeaPot",
+    "photo" : "https://tea-village.com/828/chinese-clay-teapot.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Sculptures",
+    "photo": "https://n1.sdlcdn.com/imgs/b/v/c/Clayshopee-Clay-Tea-Kettle-SDL614892728-1-3fa33.jpg"
+    
+  },
+  {
+    "id": "3",
+    "name": "Clay Atr",
+    "photo": "https://5.imimg.com/data5/RW/KP/NR/SELLER-51446134/20181127-213332-500x500.jpg"
+    
+  },
+  {
+    "id": "4",
+    "name": "porcelain",
+    "photo": "https://randomuser.me/api/portraits/men/51.jpg"
+   
+  },
+  {
+    "id": "5",
+    "name": "Suresh",
+    "photo": "https://randomuser.me/api/portraits/men/61.jpg"
+    
+  },
+  {
+    "id": "6",
+    "name": "Satnam",
+    "photo": "https://randomuser.me/api/portraits/men/21.jpg"
+    
+  },
+  {
+    "id": "7",
+    "name": "Stark",
+    "photo": "https://randomuser.me/api/portraits/men/11.jpg"
+    
+  }
+]
